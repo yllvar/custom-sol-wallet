@@ -1,11 +1,12 @@
 # 🌟 Custom Solana Wallet Generator 🚀
 
+Create unique Solana wallet addresses with custom prefixes and suffixes. Stand out in the Solana ecosystem with your personalized wallet address! ✨
+
 ---
 ### Warning: The more complex the Prefix or Suffix is, the more time it will take to generate
 
 ![ScreenRecording2025-02-04at17 10 19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8705579a-d3ee-489e-a466-80a92410b5d5)
 
-Create unique Solana wallet addresses with custom prefixes and suffixes. Stand out in the Solana ecosystem with your personalized wallet address! ✨
 
 ## 🚀 Features
 
